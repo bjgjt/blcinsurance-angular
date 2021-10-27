@@ -24,9 +24,9 @@ const routes: Routes = [
   {
     path: 'app/hospital',
     component: HospitalMainComponent,
-    children: [
-      {}
-    ]
+    // children: [
+    //   {}
+    // ]
   }
 ];
 
