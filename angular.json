@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "blcinsurance"
+    }
+  },
+  "defaultProject": "blcinsurance",
+  "cli": {
+    "analytics": false
+  }
 }
